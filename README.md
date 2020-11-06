@@ -7,5 +7,5 @@ The html file contains the "content" of your website. Fill it out with html elem
 
 The CSS file is responsible for the style of your site.
 
-You can access this site at https://sshatzkin.github.io/GithubSitesDemo/. When you fork the repository, your website will be available at https://<yourUsername>.github.io/GithubSitesDemo.
+You can access this site at https://sshatzkin.github.io/GithubSitesDemo/. When you fork the repository, your website will be available at https://yourUsername.github.io/GithubSitesDemo.
 
